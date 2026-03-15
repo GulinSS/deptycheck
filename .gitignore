@@ -3,5 +3,8 @@ build/
 **/tests/**/failures
 **/tests/**/output
 
+.claude
+super-linter-output
+
 # MacOS
 .DS_Store
