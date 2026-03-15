@@ -336,7 +336,6 @@ Now that you can generate complex ASTs, you're ready for many other applications
 and uses your custom generators.
 - **Control distribution:** Continue to **[Derivation Tuning](t10-derivation-tuning.md)** to learn how to fine-tune constructor probabilities for more
 realistic program distributions.
-- **Understand the internals:** Continue to **[Under the Hood](t11-under-the-hood-a-derivegen-like-macro.md)** to see how `deriveGen` works internally.
 
 The complete `PILTutorial.idr` file is available for reference. You can find it in the DepTyCheck examples or build it step-by-step following this
 tutorial.
