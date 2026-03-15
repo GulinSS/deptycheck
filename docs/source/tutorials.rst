@@ -24,10 +24,4 @@ You can read more in the `original framework <https://diataxis.fr/tutorials/>`_ 
   tutorials/t07-beyond-fuel
   tutorials/t08-generating-gadts-with-proofs
   tutorials/t09-toy-example
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Enjoy your curiosity
-
   tutorials/t10-derivation-tuning
-  tutorials/t11-under-the-hood-a-derivegen-like-macro

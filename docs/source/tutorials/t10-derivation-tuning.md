@@ -209,5 +209,3 @@ approach.
 `deriveGen` handles GADTs with auto-implicit proof arguments.
 - **Want to see a complete example?** Continue to **[Toy Example: Generating ASTs for a DSL](t09-toy-example.md)** to build a complete generator for a
 simple imperative language.
-- **Want to understand the internals?** Continue to **[Under the Hood: Building a deriveGen-like Macro](t11-under-the-hood-a-derivegen-like-macro.md)**
-to learn how the derivation engine works.
